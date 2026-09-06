@@ -1,6 +1,6 @@
 <img width="1280" height="642" alt="typographic_keyframe" src="https://github.com/user-attachments/assets/8f36257c-cca9-424f-9cde-b6dec4f1f0f9" />
 
-## Student and aspiring front-end developer interested in technology, web development, design, and user experience.
+## `Student and aspiring front-end developer interested in technology, web development, design, and user experience.`
 
 ### Currently working on — DragtheDisk
 I’m developing **DragtheDisk**, an independent desktop music widget designed to interact with Spotify through a floating interface inspired by a vinyl record. The project combines **React, TypeScript, Electron, and Node.js** to explore desktop application development, music integration, and interactive UI/UX while creating a unique and practical desktop experience.
