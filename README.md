@@ -15,6 +15,7 @@ Improving my skills in React, TypeScript, Electron, UI/UX, JavaScript, and code 
 
 ### How to reach me 
 **Luisafapaula@gmail.com**
+**[Linkedin](https://www.linkedin.com/in/maria-luisa-ferreira-amaral-de-paula-30a4293a4/)**
 
 ### All of my projects are available at 
 **[https://marialuisaamaral.github.io/MariaLuisaAmaral/](https://marialuisaamaral.github.io/MariaLuisaAmaral/)**
