@@ -1,16 +1,27 @@
-## Hi there 👋
+# Maria Luisa Ferreira Amaral de Paula
+Student and aspiring front-end developer interested in technology, web development, design, and user experience.
 
-<!--
-**MariaLuisaAmaral/MariaLuisaAmaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently working on DragtheDisk
+A desktop application designed to play Spotify music via a floating interface inspired by a vinyl record. It is intended to function as a music widget, allowing for convenient playback control while offering a unique visual experience integrated into the desktop environment. The project utilizes Node.js, Electron, React, and TypeScript, combining desktop application development, music service integration, and modern interface design.
 
-Here are some ideas to get you started:
+### Currently learning 
+HTML, CSS, JavaScript & TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Looking to collaborate on
+I’m interested in contributing to web and desktop projects involving Front-End development and UI/UX, especially websites, web applications, dashboards, e-commerce platforms, and interactive interfaces. I’m open to personal, academic, open-source, and professional projects, and I enjoy collaborative environments where I can learn, contribute, and grow while working with technologies such as HTML, CSS, JavaScript, React, TypeScript, and Electron.
+
+### Looking for help with 
+Improving my skills in React, TypeScript, Electron, UI/UX, JavaScript, and code organization. I’m always open to feedback, code reviews, bug fixing, new ideas, and step-by-step guidance when learning something new. I’d also love to collaborate on projects where I can contribute, learn from others, and grow as a developer.
+
+### How to reach me 
+**Luisafapaula@gmail.com**
+
+### All of my projects are available at 
+**[https://marialuisaamaral.github.io/MariaLuisaAmaral/](https://marialuisaamaral.github.io/MariaLuisaAmaral/)**
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+
+### Last project
+
+<img width="1920" height="1032" alt="portfolio-preview" src="https://github.com/user-attachments/assets/a6130792-b464-4a31-87c2-d68112089a50" />
