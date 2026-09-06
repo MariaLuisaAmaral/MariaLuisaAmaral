@@ -1,8 +1,8 @@
 # Maria Luisa Ferreira Amaral de Paula
 Student and aspiring front-end developer interested in technology, web development, design, and user experience.
 
-### Currently working on DragtheDisk
-A desktop application designed to play Spotify music via a floating interface inspired by a vinyl record. It is intended to function as a music widget, allowing for convenient playback control while offering a unique visual experience integrated into the desktop environment. The project utilizes Node.js, Electron, React, and TypeScript, combining desktop application development, music service integration, and modern interface design.
+### Currently working on — DragtheDisk
+I’m developing **DragtheDisk**, an independent desktop music widget designed to interact with Spotify through a floating interface inspired by a vinyl record. The project combines **React, TypeScript, Electron, and Node.js** to explore desktop application development, music integration, and interactive UI/UX while creating a unique and practical desktop experience.
 
 ### Currently learning 
 HTML, CSS, JavaScript & TypeScript.
