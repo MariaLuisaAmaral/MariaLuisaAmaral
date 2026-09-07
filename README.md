@@ -18,7 +18,7 @@ Improving my skills in React, TypeScript, Electron, UI/UX, JavaScript, and code 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-luisa-ferreira-amaral-de-paula-30a4293a4/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luisafapaula@gmail.com) 
 
 ### All of my projects are available at 
-**[https://marialuisaamaral.github.io/Portfolio-Maria-Luisa/](https://marialuisaamaral.github.io/Portfolio-Maria-Luisa/)** 
+**[my portfolio](https://marialuisaamaral.github.io/Portfolio-Maria-Luisa/)** 
 
 ### Languages and Tools
 
