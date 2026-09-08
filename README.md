@@ -9,7 +9,7 @@ I’m developing **DragtheDisk**, an independent desktop music widget designed t
 HTML, CSS, JavaScript & TypeScript.
 
 ### Looking to collaborate on
-I’m interested in contributing to web and desktop projects involving Front-End development and UI/UX, especially websites, web applications, dashboards, e-commerce platforms, and interactive interfaces. I’m open to personal, academic, open-source, and professional projects, and I enjoy collaborative environments where I can learn, contribute, and grow while working with technologies such as HTML, CSS, JavaScript, React, TypeScript, and Electron.
+I’m interested in contributing to web and desktop projects involving Front-End development and UI/UX, especially websites, web applications, dashboards, e-commerce platforms, and interactive interfaces. I’m open to personal, academic, open-source, and professional projects, and I enjoy collaborative environments where I can learn, contribute, and grow while working with technologies such as **HTML, CSS, JavaScript, React, TypeScript, Electron, Electron Builder and Vite.**
 
 ### Looking for help with 
 Improving my skills in React, TypeScript, Electron, UI/UX, JavaScript, and code organization. I’m always open to feedback, code reviews, bug fixing, new ideas, and step-by-step guidance when learning something new. I’d also love to collaborate on projects where I can contribute, learn from others, and grow as a developer.
