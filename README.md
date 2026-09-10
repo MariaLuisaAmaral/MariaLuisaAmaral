@@ -28,4 +28,4 @@ Improving my skills in React, TypeScript, Electron, UI/UX, JavaScript, and code 
 
 ### Last project
 
-<img width="1920" height="1032" alt="portfolio-preview" src="https://github.com/user-attachments/assets/a6130792-b464-4a31-87c2-d68112089a50" />
+<img width="1919" height="1079" alt="preview" src="https://github.com/user-attachments/assets/f4b7705d-9dbb-4abc-9e12-34a5249909f1" />
