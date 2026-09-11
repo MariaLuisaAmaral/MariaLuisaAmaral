@@ -1,4 +1,5 @@
-<img width="1280" height="642" alt="typographic_keyframe" src="https://github.com/user-attachments/assets/8f36257c-cca9-424f-9cde-b6dec4f1f0f9" />
+<img width="2048" height="768" alt="banner-perfil2" src="https://github.com/user-attachments/assets/fe118a2b-4a02-42f0-bfaa-f3981b549129" />
+
 
 ## `Student and a front-end developer interested in technology, web development, design, and user experience.`
 
