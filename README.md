@@ -1,5 +1,4 @@
-<img width="2048" height="768" alt="banner-perfil2" src="https://github.com/user-attachments/assets/fe118a2b-4a02-42f0-bfaa-f3981b549129" />
-
+<img width="1200" height="600" alt="Blog Header 1200x600 px" src="https://github.com/user-attachments/assets/ed36c05f-167e-44eb-a6b0-3c7d1beec186" />
 
 ## `Student and a front-end developer interested in technology, web development, design, and user experience.`
 
